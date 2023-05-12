@@ -59,6 +59,7 @@ under the License.
 					The cause is unknown; this is just safeguard.-->
 				<groupId>org.apache.zookeeper</groupId>
 				<artifactId>zookeeper</artifactId>
+				<version>${zookeeper.version}</version>
 				<exclusions>
 					<exclusion>
 						<groupId>log4j</groupId>
